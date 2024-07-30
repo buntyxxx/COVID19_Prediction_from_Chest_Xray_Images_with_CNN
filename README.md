@@ -85,5 +85,4 @@ Copyright (c) 2024 Buntyxxx
 <p align="center">
     <a href="https://www.linkedin.com/in/krishnasai-chenchala-812a06128/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
   
-    <a href="area51organisation@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
-</p> 
+   
